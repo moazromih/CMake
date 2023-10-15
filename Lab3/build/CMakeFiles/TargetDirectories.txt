@@ -1,0 +1,6 @@
+D:/CMake/Lab3/build/CMakeFiles/wifi.dir
+D:/CMake/Lab3/build/CMakeFiles/edit_cache.dir
+D:/CMake/Lab3/build/CMakeFiles/rebuild_cache.dir
+D:/CMake/Lab3/build/lib/CMakeFiles/Wifi_Lib.dir
+D:/CMake/Lab3/build/lib/CMakeFiles/edit_cache.dir
+D:/CMake/Lab3/build/lib/CMakeFiles/rebuild_cache.dir
